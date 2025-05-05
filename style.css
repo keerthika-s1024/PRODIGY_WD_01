@@ -1,0 +1,52 @@
+header{
+    color:white;
+    background-color: blue;
+}
+
+
+.navbar-brand{
+    font-family:  Georgia, serif;
+}
+
+.base{
+    text-align:center;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+}
+
+
+.homepage{
+    width:100%;
+    height:40vh;
+    text-align:center;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+}
+
+.aboutpage{
+    text-align:left;
+    width:100%;
+}
+.coding-img{
+    height:76%;
+    width:60%;
+    display:flex;
+    justify-content:center;
+}
+
+.card{
+    width:40%;
+    margin:1rem;
+    border-radius:18px;
+    border-color:grey;
+    border-width: 2px;
+    padding:5px;
+}
+
+
+.card-img{
+    width:90%;
+    height:90%;
+}
